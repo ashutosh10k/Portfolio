@@ -1,0 +1,20 @@
+{
+  "name": "ashutosh-kumar-it-portfolio",
+  "version": "1.0.0",
+  "description": "High-Tech Cyberpunk Portfolio for Ashutosh Kumar - IT Support Engineer & Systems Specialist",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "it-support",
+    "desktop-engineer",
+    "system-operations",
+    "cyberpunk-theme",
+    "mca"
+  ],
+  "author": "Ashutosh Kumar",
+  "license": "MIT"
+}
